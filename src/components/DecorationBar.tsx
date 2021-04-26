@@ -11,6 +11,7 @@ const DecorationBar = () => {
       p="3"
       bg={useColorModeValue("red", "blue")}
       borderBottomRadius="8"
+      fixed
     >
       <Spacer />
       <Center>

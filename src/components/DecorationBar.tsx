@@ -9,7 +9,7 @@ const DecorationBar = () => {
       h="5em"
       w="100%"
       p="3"
-      bg={useColorModeValue("red", "blue")}
+      bg={useColorModeValue("#bd4867", "#0099ff")}
       borderBottomRadius="8"
       fixed
     >

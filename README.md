@@ -1,11 +1,13 @@
-# Leave My Mind!
+## LEAVE MY MIND!
 
-### Have you ever stuck because of the distrubing thoughts in your head?
+Have you ever been stuck :tw-1f62b: because you couldn't leave your disrupting thoughts?
 
-`...`
+Everyone had...
 
-## Everyone had!
+:tw-261d:
 
-Give it a break... and
+**BUT WAIT!**
 
-## ... **LEAVE MY MIND**
+Just write it down in the ether :tw-1f680:
+
+...with **LEAVE MY MIND!!**
